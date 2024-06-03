@@ -41,16 +41,16 @@
  <a href="bavakurian.me" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="bava-kurian" />
  </a>
- <a href="https://linkedin.com/in/bava](https://www.linkedin.com/in/bava-kurian-varghese-a14918249/" target="_blank">
+ <a href="https://www.linkedin.com/in/bava-kurian-varghese-a14918249/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bava-kurian"/>
  </a>
  <!-- <a href="https://dev.to/bava-kurian" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="bava-kurian" />
  </a> -->
- <a href="[https://instagram.com/bava-kurian](https://www.instagram.com/bava_kurian_/)" target="_blank">
+ <a href="(https://www.instagram.com/bava_kurian_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="bava-kurian" />
  </a> 
- <a href="[https://facebook.com/bava-kurian.dev](https://www.facebook.com/bavakurian.varghese.7)" target="_blank">
+ <a href="(https://www.facebook.com/bavakurian.varghese.7" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="bava-kurian"  />
   </a> 
 </p>
@@ -76,7 +76,7 @@
 ## Use To Code
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,django,java,mysql,sqlite,jquery,linux,stackoverflow,sublime,vscode,windows,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,django,java,mysql,sqlite,jquery,linux,stackoverflow,vscode,arduino" />
   </a>
 </p>
 
