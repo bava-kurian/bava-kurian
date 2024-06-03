@@ -22,14 +22,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://bava-kurian.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://bava-kurian.com">Bava Kurian Varghese</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=bava+kurian+varghese">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Kerala</b> 」
     <br>
@@ -76,19 +76,20 @@
 <br/>
 <br/>
 
-## Use To Code<p align="center">
+## Use To Code
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,django,java,MySQL,sqlite,jquery,linux,StackOverflow,sublime,vscode,windows,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,django,java,mysql,sqlite,jquery,linux,stackoverflow,sublime,vscode,windows,arduino" />
   </a>
 </p>
 
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=bava-kurian&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/bava-kurian)
+[![Lets-do-it!](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/Django-to-do-app)
+[![Blog-project](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/django-blog-projecte)
+[![TEDXAJCE-2024](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/tedx2024)
+[![SciCommune](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=bava-kurian&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/SciCommune)
 
 <p align="left">
   <a href="https://github.com/bava-kurian?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
