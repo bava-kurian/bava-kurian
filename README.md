@@ -82,15 +82,7 @@
 
 <br/>
 
-## Top Open Source -
-[![Lets-do-it!](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/Django-to-do-app)
-[![Blog-project](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/django-blog-projecte)
-[![TEDXAJCE-2024](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/tedx2024)
-[![SciCommune](https://github-readme-stats.vercel.app/api/pin/?username=bava-kurian&repo=bava-kurian&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bava-kurian/SciCommune)
 
-<p align="left">
-  <a href="https://github.com/bava-kurian?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
