@@ -76,7 +76,7 @@
 ## Use To Code
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,django,java,mysql,sqlite,jquery,linux,stackoverflow,vscode,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,py,django,java,mysql,sqlite,jquery,linux,stackoverflow,vscode,arduino,bash,bootstrap,c,linkedIn,instagram,materialui,nodejs,react,tailwind,windows" />
   </a>
 </p>
 
