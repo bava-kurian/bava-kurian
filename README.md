@@ -41,7 +41,7 @@
 <!-- ===================== SOCIAL LINKS ===================== -->
 
 <p align="center">
-  <a href="https://bavakurian.me" target="_blank">
+  <a href="https://bava-kurian-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/bava-kurian-varghese-a14918249/" target="_blank">
@@ -75,14 +75,7 @@
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,nodejs,java,js,html,css,tailwind,bootstrap,mysql,sqlite,docker,linux,git,github,postman,pytorch,tensorflow,sklearn,arduino,bash,vscode&perline=10"/>
-  </a>
-</p>
-
----
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css,tailwind,bootstrap,react,nextjs,nodejs,express,fastapi,django,postgres,mysql,mongodb,redis,graphql,rest,docker,kubernetes,aws,gcp,linux,git,github,githubactions,postman,pytest,selenium,opencv,pytorch,tensorflow,scikit-learn,arduino,bash,vscode,nginx,vercel,supabase,redis,redux,tsnode,vite,svelte,vue,kotlin,flutter,figma&perline=12"/> </a> </p>
 
 <!-- ===================== GITHUB STATS ===================== -->
 
@@ -96,12 +89,20 @@ A quick snapshot of my open-source activity, consistency, and technical focus.
 <p align="center"> <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bava-kurian&theme=radical"/> </p> <p align="center"> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bava-kurian&theme=radical"/> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bava-kurian&theme=radical"/> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bava-kurian&theme=radical"/> </p>
 🧪 GitHub Performance Metrics
 <p align="center"> <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bava-kurian&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F&icon_color=F8D866"/> <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bava-kurian&layout=compact&langs_count=10&theme=react&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F"/> </p>
-📈 Contribution Activity Graph
+
+## 🚀 Development Velocity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bava-kurian&show_icons=true&theme=radical&custom_title=Code%20Velocity&hide=prs"/>
+</p>
+
+## 📈 Contribution Activity Graph
 <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bava-kurian&custom_title=Annual%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=FFFFFF&area=true"/> </p>
 <!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/bava-kurian/bava-kurian/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 <!-- ===================== FOOTER ===================== -->
